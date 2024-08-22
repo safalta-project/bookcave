@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/computer.jpg</file>
+        <file>images/engineering.jpg</file>
+        <file>images/scifi.jpg</file>
+        <file>images/nonfiction.png</file>
+        <file>images/chemistry.png</file>
+        <file>images/selfhelp.jpg</file>
+        <file>images/novel.jpg</file>
+        <file>images/fiction.jpg</file>
+        <file>images/maths.jpg</file>
+        <file>images/physics.jpg</file>
+        <file>images/history.jpg</file>
+        <file>images/literature.jpeg</file>
+    </qresource>
+</RCC>
